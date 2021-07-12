@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2474" started-at="2021-07-10T00:12:13Z" finished-at="2021-07-10T00:12:16Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2474" started-at="2021-07-10T00:12:13Z" finished-at="2021-07-10T00:12:16Z">
+      <class name="testcases.RestAssured_API">
+        <test-method status="PASS" signature="delete_a_product()[pri:0, instance:testcases.RestAssured_API@769e7ee8]" name="delete_a_product" duration-ms="2447" started-at="2021-07-10T00:12:13Z" finished-at="2021-07-10T00:12:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_a_product -->
+      </class> <!-- testcases.RestAssured_API -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

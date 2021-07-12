@@ -1,0 +1,9 @@
+
+{
+    "name" : "My Inspiration",
+    "price" : "499.99",
+    "description" : "The best person",
+    "category_id" : 6,
+    "category_name":"Books"
+
+}
